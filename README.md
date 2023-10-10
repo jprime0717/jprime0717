@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.Srjprime.com](www.Srjprime.com)
 
-- 💬 Ask me about **html, css, javascript & reactjs**
+- 💬 Ask me about **Java,html, css, javascript & Spring Boot**
 
 - 📫 How to reach me **juandiego.07.17@gmail.com**
 
