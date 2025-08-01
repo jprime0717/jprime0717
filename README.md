@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.Srjprime.com](www.Srjprime.com)
 
-- 💬 Ask me about **Java,html, css, javascript & Spring Boot**
+- 💬 Ask me about **Azure,Microsoft cloud, Power PLataform,html, css, javascript, Scrum **
 
 - 📫 How to reach me **juandiego.07.17@gmail.com**
 
