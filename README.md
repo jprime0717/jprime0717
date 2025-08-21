@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Diego Bermudez</h1>
-<h3 align="center">A passionate Software developer from Colombia</h3>
+<h3 align="center">Soy Ingeniero en Sistemas especializado en la creación y diseño de sitios web en WordPress. Me apasiona ayudar a emprendedores, negocios y profesionales a tener presencia en internet con páginas modernas, seguras y optimizadas.</h3>
 
 - 👨‍💻 All of my projects are available at [www.Srjprime.com](www.Srjprime.com)
 
-- 💬 Ask me about **Azure,Microsoft cloud, Power PLataform,html, css, javascript, Scrum **
+- 💬 Ask me about **Wordpress, Azure,Microsoft cloud, Power PLataform,html, css, javascript, Scrum **
 
 - 📫 How to reach me **juandiego.07.17@gmail.com**
 
