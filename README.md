@@ -3,9 +3,29 @@
 
 - 👨‍💻 All of my projects are available at [www.Srjprime.com](www.Srjprime.com)
 
-- 💬 Ask me about **Wordpress, Azure,Microsoft cloud, Power PLataform,html, css, javascript, Scrum **
+- 🌐 ¿Qué hago?
+
+✔️ Creación de páginas web en WordPress – desde landing pages hasta sitios corporativos.
+✔️ Diseño personalizado – adaptado a la marca y al estilo de cada cliente.
+✔️ Hosting y dominios – ofrezco planes completos para que el cliente no se preocupe por lo técnico.
+✔️ Soporte y mantenimiento – seguridad, actualizaciones y optimización de rendimiento.
+✔️ Integraciones – pasarelas de pago, formularios, chat en vivo, Google Analytics, SEO básico.
 
 - 📫 How to reach me **juandiego.07.17@gmail.com**
+
+- 🛠️ Tecnologías y Herramientas
+
+WordPress (Elementor, Divi, Gutenberg)
+
+WooCommerce (tiendas online)
+
+PHP, HTML5, CSS3, JavaScript
+
+MySQL (bases de datos)
+
+Hosting en cPanel / Cloud / VPS
+
+Git & GitHub (control de versiones y despliegue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
