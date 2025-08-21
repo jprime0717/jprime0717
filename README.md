@@ -62,7 +62,7 @@ Entrega y soporte → Capacitación básica + mantenimiento opcional.
 ¿Quieres tu página web profesional en WordPress? 💻✨
 Puedes escribirme a:
 
-📧 judinermudez@utp.edu.co
+📧 judibermudez@utp.edu.co
 
 💼 LinkedIn
 
