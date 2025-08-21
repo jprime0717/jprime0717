@@ -27,6 +27,56 @@ Hosting en cPanel / Cloud / VPS
 
 Git & GitHub (control de versiones y despliegue)
 
+📦 Servicios que ofrezco
+Servicio	Descripción	Ideal para
+Página básica	Sitio web informativo con 3-5 secciones	Profesionales y pequeños negocios
+Tienda online	E-commerce completo con WooCommerce	Emprendedores que quieren vender online
+Diseño a medida	Plantillas personalizadas y únicas	Empresas que buscan destacar
+Hosting + Dominio	Servidor optimizado + dominio incluido	Clientes que buscan solución completa
+Soporte mensual	Actualizaciones, seguridad y backups	Cualquier cliente que quiera tranquilidad
+🚀 Cómo trabajo
+
+Reunión inicial → Entiendo la necesidad del cliente.
+
+Propuesta y diseño → Wireframes, mockups o demos.
+
+Desarrollo en WordPress → Instalación, personalización y pruebas.
+
+Entrega y soporte → Capacitación básica + mantenimiento opcional.
+
+📊 Ejemplos de proyectos
+
+🔗 (Aquí puedes poner enlaces o imágenes de páginas que hayas hecho)
+
+🌍 Proyecto 1
+ – Landing page para startup
+
+🛒 Proyecto 2
+ – Tienda online con WooCommerce
+
+🏢 Proyecto 3
+ – Sitio corporativo para empresa local
+
+📫 Contáctame
+
+¿Quieres tu página web profesional en WordPress? 💻✨
+Puedes escribirme a:
+
+📧 judinermudez@utp.edu.co
+
+💼 LinkedIn
+
+🌐 Portafolio
+
+📱 WhatsApp: +57 3XX XXX XXXX
+
+⭐ Un poco sobre mí
+
+Soy ingeniero de sistemas colombiano, apasionado por la tecnología, el diseño y la creación de proyectos digitales.
+Cuando no estoy programando, me gusta el gimnasio 🏋️, la cocina 🍳 y los videojuegos 🎮.
+
+👉 Este repositorio lo uso para mostrar mis proyectos, ejemplos de código y avances en mis servicios de desarrollo web.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srjprime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srjprime" height="30" width="40" /></a>
