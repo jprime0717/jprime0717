@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Juan Diego Bermúdez</h1>
 
 <p align="center">
-  <b>Ingeniero de Sistemas · Ciberseguridad & Redes · Desarrollo Web</b><br>
+  <b>Ingeniero de Sistemas · Ciberseguridad & Redes · Desarrollo</b><br>
   <sub>Cybersecurity & Networking Pre-Sales · Web Developer · Building my own products 🚀</sub>
 </p>
 
@@ -16,13 +16,13 @@
 
 ## 🇪🇸 Sobre mí
 
-Ingeniero de Sistemas colombiano trabajando en **preventa y consultoría técnica en ciberseguridad y redes**. Diseño arquitecturas de seguridad, dimensiono soluciones NGFW/SD-WAN, elaboro diagnósticos de madurez y traduzco requisitos técnicos en propuestas que cierran negocios.
+Ingeniero de Sistemas colombiano trabajando en **consultoría técnica en ciberseguridad y redes**. Diseño arquitecturas de seguridad, dimensiono soluciones NGFW/SD-WAN, elaboro diagnósticos de madurez y traduzco requisitos técnicos en propuestas que cierran negocios.
 
 En paralelo construyo mis propias herramientas y productos digitales — desde apps de diagnóstico hasta sitios web y proyectos de marca personal.
 
 ## 🇬🇧 About me
 
-Colombian Systems Engineer working in **cybersecurity & networking pre-sales and technical consulting**. I design security architectures, size NGFW/SD-WAN solutions, run maturity assessments, and turn technical requirements into proposals that close deals.
+Colombian Systems Engineer working in **cybersecurity & networking technical consulting**. I design security architectures, size NGFW/SD-WAN solutions, run maturity assessments, and turn technical requirements into proposals that close deals.
 
 On the side, I build my own tools and digital products — from diagnostic apps to websites and personal-brand projects.
 
